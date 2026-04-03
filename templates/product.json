@@ -61,7 +61,7 @@
           "type": "variant_picker",
           "settings": {
             "show_variant_labels": true,
-            "picker_type": "button",
+            "picker_type": "dropdown",
             "enable_color_swatches": true,
             "swatches_source": "file",
             "swatch_type": "round",
