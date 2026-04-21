@@ -56,7 +56,7 @@
         "show_line_separator": true,
         "uppercase_menu_items": true,
         "cart_icon": "bag",
-        "icon_weight": "1.7",
+        "icon_weight": "1.5",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "enable_sticky_header": false,
